@@ -1,0 +1,7 @@
+﻿id_custo,id_veiculo,tipo_custo,valor,data_custo
+1,1,Troca de Óleo e Filtros,250,2026-03-01
+2,1,Manutenção Suspensão e Embreagem,1200,2026-03-05
+3,2,Abastecimento Combustível,180,2026-03-02
+4,2,Troca de Pneus,800,2026-03-06
+5,3,Abastecimento Combustível,210,2026-03-03
+6,4,Revisão Freios,350,2026-03-04

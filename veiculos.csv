@@ -1,0 +1,5 @@
+﻿id_veiculo,modelo,ano,placa,custo_estimado_km
+1,Volkswagen Gol G7 1.0,2018,ABC1D23,0.65
+2,Chevrolet Onix 1.0,2020,XYZ9K88,0.6
+3,Hyundai HB20 1.6,2021,KDJ4M11,0.72
+4,Fiat Argo 1.0,2019,JHG8L55,0.63

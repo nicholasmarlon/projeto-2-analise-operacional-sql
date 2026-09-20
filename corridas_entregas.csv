@@ -1,0 +1,11 @@
+﻿id_corrida,id_motorista,id_veiculo,plataforma,data_hora_inicio,data_hora_fim,distancia_km,valor_bruto,status_corrida
+1,1,1,Uber,2026-03-10 07:30:00,2026-03-10 07:50:00,12.5,38.5,Concluída
+2,1,1,99,2026-03-10 08:05:00,2026-03-10 08:20:00,8.0,24.0,Concluída
+3,1,1,Uber,2026-03-10 08:30:00,,5.0,15.0,Cancelada_Passageiro
+4,1,1,InDrive,2026-03-10 09:00:00,2026-03-10 09:45:00,25.0,65.0,Concluída
+5,2,2,Uber,2026-03-10 07:15:00,2026-03-10 07:35:00,10.0,30.0,Concluída
+6,2,2,99,2026-03-10 07:50:00,,15.0,42.0,Cancelada_Motorista
+7,2,2,Uber,2026-03-10 08:15:00,2026-03-10 08:40:00,14.2,41.5,Concluída
+8,3,3,InDrive,2026-03-10 10:00:00,2026-03-10 10:30:00,18.0,52.0,Concluída
+9,3,3,Uber,2026-03-10 11:00:00,2026-03-10 11:15:00,6.5,20.0,Concluída
+10,3,3,99,2026-03-10 11:30:00,,11.0,31.0,Cancelada_Passageiro
